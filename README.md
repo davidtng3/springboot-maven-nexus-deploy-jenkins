@@ -1,1 +1,1 @@
-# springboot-maven-nexus-deploy-jenkins
+# springboot-maven-nexus-deploy
